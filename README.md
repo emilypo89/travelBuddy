@@ -1,1 +1,1 @@
-# travelBuddy
+# travelbuddy
